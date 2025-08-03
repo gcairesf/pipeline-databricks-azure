@@ -1,0 +1,9 @@
+{
+	"name": "databricks-gscf",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a89d1f6f-10dc-456a-a188-0e9950a54c64",
+		"tenantId": "44d39a66-9fdf-4961-a832-06d9edc58249"
+	}
+}
