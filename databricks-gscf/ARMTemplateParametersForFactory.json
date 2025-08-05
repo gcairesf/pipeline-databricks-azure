@@ -1,0 +1,15 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "databricks-gscf"
+		},
+		"databricks__datafactory_link_accessToken": {
+			"value": ""
+		},
+		"databricks__datafactory_link_properties_typeProperties_existingClusterId": {
+			"value": "0727-095707-y3q3u55u"
+		}
+	}
+}
